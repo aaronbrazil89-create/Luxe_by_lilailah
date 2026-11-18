@@ -1,42 +1,60 @@
 {
   "currency": "gbp",
   "delivery_pence": 299,
-  "products": {
-    "tiara-6371": {
+  "products": [
+    {
+      "id": "tiara-6371",
       "name": "Crystal Petal",
-      "price_pence": 1299,
+      "unitAmountPence": 1299,
       "currency": "gbp",
-      "max_quantity": 3
+      "maxQuantity": 3,
+      "available": true,
+      "shippingPence": 0
     },
-    "tiara-6372": {
+    {
+      "id": "tiara-6372",
       "name": "Little Sweetheart",
-      "price_pence": 1499,
+      "unitAmountPence": 1499,
       "currency": "gbp",
-      "max_quantity": 3
+      "maxQuantity": 3,
+      "available": true,
+      "shippingPence": 0
     },
-    "tiara-6375": {
+    {
+      "id": "tiara-6375",
       "name": "Crystal Arches",
-      "price_pence": 1499,
+      "unitAmountPence": 1499,
       "currency": "gbp",
-      "max_quantity": 3
+      "maxQuantity": 3,
+      "available": true,
+      "shippingPence": 0
     },
-    "tiara-6376": {
+    {
+      "id": "tiara-6376",
       "name": "Princess Heart",
-      "price_pence": 1699,
+      "unitAmountPence": 1699,
       "currency": "gbp",
-      "max_quantity": 3
+      "maxQuantity": 3,
+      "available": true,
+      "shippingPence": 0
     },
-    "tiara-6383": {
+    {
+      "id": "tiara-6383",
       "name": "Crystal Scroll",
-      "price_pence": 2999,
+      "unitAmountPence": 2999,
       "currency": "gbp",
-      "max_quantity": 3
+      "maxQuantity": 3,
+      "available": true,
+      "shippingPence": 0
     },
-    "tiara-6384": {
+    {
+      "id": "tiara-6384",
       "name": "Pear Crystal",
-      "price_pence": 3499,
+      "unitAmountPence": 3499,
       "currency": "gbp",
-      "max_quantity": 3
+      "maxQuantity": 3,
+      "available": true,
+      "shippingPence": 0
     }
-  }
+  ]
 }
